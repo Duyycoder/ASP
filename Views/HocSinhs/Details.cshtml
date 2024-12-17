@@ -1,0 +1,53 @@
+﻿@model TX2.Models.HocSinh
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>HocSinh</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.LopHoc.tenlop)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LopHoc.tenlop)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.hoten)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.hoten)
+        </dd>
+
+        <dt>
+            @{
+                string path = "~/Images/" + Model.anhduthi;
+            }
+            <img src="@Url.Content(path)" width="150" alt="Anh Du Thi" class="img-thumbnail" />
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.anhduthi)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.diemthi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.diemthi)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.sbd }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
