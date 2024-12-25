@@ -3,55 +3,59 @@
   "WorkspaceRootPath": "D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\controllers\\hocsinhscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|solutionrelative:controllers\\hocsinhscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|d:\\tlht\\asp.net\\ontaptx2\\tx2\\views\\hocsinhs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|solutionrelative:views\\hocsinhs\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\views\\hocsinhs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|solutionrelative:views\\hocsinhs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|solutionrelative:views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|d:\\tlht\\asp.net\\ontaptx2\\tx2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|d:\\tlht\\asp.net\\ontaptx2\\tx2\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|solutionrelative:views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|d:\\tlht\\asp.net\\ontaptx2\\tx2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|d:\\tlht\\asp.net\\ontaptx2\\tx2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|d:\\tlht\\asp.net\\ontaptx2\\tx2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\controllers\\hocsinhscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|solutionrelative:controllers\\hocsinhscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\models\\hocsinhdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|solutionrelative:models\\hocsinhdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|d:\\tlht\\asp.net\\ontaptx2\\tx2\\views\\hocsinhs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|solutionrelative:views\\hocsinhs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|d:\\tlht\\asp.net\\ontaptx2\\tx2\\views\\hocsinhs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\views\\hocsinhs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|solutionrelative:views\\hocsinhs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|d:\\tlht\\asp.net\\ontaptx2\\tx2\\views\\hocsinhs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\views\\hocsinhs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|solutionrelative:views\\hocsinhs\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|d:\\tlht\\asp.net\\ontaptx2\\tx2\\views\\hocsinhs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\views\\hocsinhs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|solutionrelative:views\\hocsinhs\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|d:\\tlht\\asp.net\\ontaptx2\\tx2\\views\\lophocs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\views\\lophocs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|solutionrelative:views\\lophocs\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|d:\\tlht\\asp.net\\ontaptx2\\tx2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA75576A-1D46-4863-AC22-ACCD81996FAB}|TX2.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -70,63 +74,37 @@
       "DocumentGroups": [
         {
           "DockedHeight": 518,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACYAAAAAAAAAAAAYwEoAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAEoAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-17T16:33:55.301Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Web.config",
               "DocumentMoniker": "D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\Views\\Web.config",
               "RelativeDocumentMoniker": "Views\\Web.config",
               "ToolTip": "D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\Views\\Web.config",
               "RelativeToolTip": "Views\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2024-12-17T16:33:51.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T16:33:48.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-17T16:33:41.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "RouteConfig.cs",
               "DocumentMoniker": "D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
@@ -139,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\Views\\HocSinhs\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\HocSinhs\\Details.cshtml",
@@ -152,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\Views\\HocSinhs\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\HocSinhs\\Edit.cshtml",
@@ -165,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\Views\\LopHocs\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\LopHocs\\Index.cshtml",
@@ -178,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\Views\\HocSinhs\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\HocSinhs\\Delete.cshtml",
@@ -191,20 +169,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "HocSinhsController.cs",
+              "DocumentMoniker": "D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\Controllers\\HocSinhsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HocSinhsController.cs",
+              "ToolTip": "D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\Controllers\\HocSinhsController.cs",
+              "RelativeToolTip": "Controllers\\HocSinhsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:05:22.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\Views\\HocSinhs\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\HocSinhs\\Index.cshtml",
               "ToolTip": "D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\Views\\HocSinhs\\Index.cshtml",
               "RelativeToolTip": "Views\\HocSinhs\\Index.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-17T15:13:55.899Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\Views\\HocSinhs\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\HocSinhs\\Create.cshtml",
+              "ToolTip": "D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\Views\\HocSinhs\\Create.cshtml",
+              "RelativeToolTip": "Views\\HocSinhs\\Create.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T05:46:27.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T16:33:41.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-17T16:33:48.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "LopHocsController.cs",
               "DocumentMoniker": "D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\Controllers\\LopHocsController.cs",
               "RelativeDocumentMoniker": "Controllers\\LopHocsController.cs",
@@ -217,20 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "HocSinhsController.cs",
-              "DocumentMoniker": "D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\Controllers\\HocSinhsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HocSinhsController.cs",
-              "ToolTip": "D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\Controllers\\HocSinhsController.cs",
-              "RelativeToolTip": "Controllers\\HocSinhsController.cs",
-              "ViewState": "AgIAAH8AAAAAAAAAAAAiwJcAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T15:05:22.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -243,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "HocSinhDb.cs",
               "DocumentMoniker": "D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\Models\\HocSinhDb.cs",
               "RelativeDocumentMoniker": "Models\\HocSinhDb.cs",
@@ -256,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Web.config",
               "DocumentMoniker": "D:\\TLHT\\ASP.NET\\OnTapTX2\\TX2\\Web.config",
               "RelativeDocumentMoniker": "Web.config",

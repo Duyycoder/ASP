@@ -8,6 +8,7 @@ using System.Net;
 using System.Web;
 using System.Web.Mvc;
 using TX2.Models;
+using System.IO;
 
 namespace TX2.Controllers
 {
@@ -16,9 +17,15 @@ namespace TX2.Controllers
         private HocSinhDb db = new HocSinhDb();
 
         // GET: HocSinhs
-        public async Task<ActionResult> Index()
+        public async Task<ActionResult> Index(string searchString)
         {
             var hocSinh = db.HocSinh.Include(h => h.LopHoc);
+
+            if (!String.IsNullOrEmpty(searchString))
+            {
+                hocSinh = hocSinh.Where(s => s.hoten.Contains(searchString));
+            }
+
             return View(await hocSinh.ToListAsync());
         }
 
@@ -49,10 +56,25 @@ namespace TX2.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<ActionResult> Create([Bind(Include = "sbd,hoten,anhduthi,malop,diemthi")] HocSinh hocSinh)
+        public async Task<ActionResult> Create([Bind(Include = "sbd,hoten,malop,diemthi")] HocSinh hocSinh, HttpPostedFileBase anhduthi)
         {
             if (ModelState.IsValid)
             {
+                if (anhduthi != null && anhduthi.ContentLength > 0)
+                {
+                    // Lấy tên tệp
+                    var fileName = Path.GetFileName(anhduthi.FileName);
+
+                    // Tạo đường dẫn lưu tệp
+                    var path = Path.Combine(Server.MapPath("~/Images"), fileName);
+
+                    // Lưu tệp vào server
+                    anhduthi.SaveAs(path);
+
+                    // Lưu đường dẫn tệp vào database
+                    hocSinh.anhduthi =  fileName;
+                }
+
                 db.HocSinh.Add(hocSinh);
                 await db.SaveChangesAsync();
                 return RedirectToAction("Index");
@@ -151,6 +173,9 @@ namespace TX2.Controllers
 
             return View(result); // Trả về 200 OK với dữ liệu
         }
+
+
+        
 
         protected override void Dispose(bool disposing)
         {
